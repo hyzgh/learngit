@@ -1,2 +1,4 @@
 180514
-temp/*.cpp
+tmp
+tmp1/
+tmp2/*
