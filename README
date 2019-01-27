@@ -7,3 +7,11 @@ test
 I'm learning atom.
 Test branch on 181015.
 Test branch merge but comflicted on 181015.
+---
+Test `git add -p FILE` on 190127.
+
+Content A to commit.
+
+Content B not to commit.
+
+Content C to commit.
