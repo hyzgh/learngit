@@ -1,3 +1,6 @@
+[TOC]
+# README
+
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Test180406
@@ -16,9 +19,8 @@ Content B not to commit.
 ---
 On 190127, test github markdown.
 
-[TOC]
 
-# Markdown语法
+## Markdown语法
 
 数学公式：$ Math $ 或 $$ Math $$，两者在Typora中没有区别。
 
