@@ -9,6 +9,7 @@ test
 I'm learning atom.
 Test branch on 181015.
 Test branch merge but comflicted on 181015.
+
 ---
 Test `git add -p FILE` on 190127.
 
