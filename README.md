@@ -26,3 +26,4 @@ Content B not to commit.
 190529
 test master, origin, origin/master
 test git fetch
+test git reset
