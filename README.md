@@ -19,3 +19,6 @@ Content B not to commit.
 190127, test github markdown.
 
 190406, test `git branch`
+
+---
+190603, test git branch --track
