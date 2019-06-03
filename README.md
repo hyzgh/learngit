@@ -21,4 +21,8 @@ Content B not to commit.
 190406, test `git branch`
 
 ---
-190603, test git branch --track
+190603
+test git branch --track
+
+test giit branch without track
+
