@@ -27,3 +27,7 @@ Content B not to commit.
 test master, origin, origin/master
 test git fetch
 test git reset
+
+---
+190603
+test git tag
