@@ -31,3 +31,7 @@ test git reset
 ---
 190603
 test git tag
+
+---
+190627
+test .gitignore 
