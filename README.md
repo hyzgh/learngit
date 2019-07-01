@@ -43,3 +43,7 @@ test git stash 2
 ---
 190630
 test git commit --amend
+
+test git commit --amend --no-edit
+
+test git rebase
