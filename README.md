@@ -35,3 +35,7 @@ test git tag
 ---
 190627
 test .gitignore 
+
+---
+190630
+test git stash 2
