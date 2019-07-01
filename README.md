@@ -45,3 +45,4 @@ test git commit --amend
 test git commit --amend --no-edit
 
 test git rebase
+test git rebase 2
