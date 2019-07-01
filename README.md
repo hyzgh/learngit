@@ -39,3 +39,7 @@ test .gitignore
 ---
 190630
 test git stash 2
+
+---
+190630
+test git commit --amend
