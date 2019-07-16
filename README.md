@@ -52,3 +52,7 @@ test git rebase 2
 ---
 190702
 use git reset to restore change to stage
+
+---
+190716
+test git reset --soft
