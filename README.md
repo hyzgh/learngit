@@ -48,3 +48,7 @@ test git commit --amend --no-edit
 
 test git rebase
 test git rebase 2
+
+---
+190702
+use git reset to restore change to stage
