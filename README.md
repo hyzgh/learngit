@@ -56,3 +56,5 @@ use git reset to restore change to stage
 ---
 190716
 test git reset --soft
+
+test git reset --hard
