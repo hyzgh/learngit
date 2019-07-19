@@ -66,3 +66,5 @@ test git reflog
 test git diff
 
 test git branch and rebase
+
+test git branch and merge
