@@ -64,3 +64,5 @@ test git reset --hard
 test git reflog
 
 test git diff
+
+test git branch and rebase
