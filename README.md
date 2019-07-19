@@ -62,3 +62,5 @@ test git reset --hard
 ---
 190719
 test git reflog
+
+test git diff
