@@ -58,3 +58,7 @@ use git reset to restore change to stage
 test git reset --soft
 
 test git reset --hard
+
+---
+190719
+test git reflog
