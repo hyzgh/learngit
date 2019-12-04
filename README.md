@@ -76,3 +76,4 @@ git diff [FILE]
 git diff --staged [FILE]
 git diff --cached [FILE]
 git commit -v
+git commit -a
