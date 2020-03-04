@@ -96,3 +96,4 @@ cache github password in git when https
 cache github password in git when https
 cache github password in git when https
 cache github password in git when https
+cache github password in git when https
