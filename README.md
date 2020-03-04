@@ -82,3 +82,7 @@ git rm -f
 ---
 191210
 git submodule ddd
+
+---
+200304
+cache github password in git when https
